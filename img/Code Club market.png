@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)https://ahmedsultan2021.github.io/Elmagdmarket/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Code Club market_files/normalize.css">
+    <link rel="stylesheet" href="./Code Club market_files/style.css">
+    <link rel="shortcut icon" href="./Code Club market_files/fruit-shop.png" type="image/x-icon">
+    <title> Code Club market </title>
+</head>
+
+<body>
+
+<nav style="color:white ;font-size: x-large; ">
+    Code
+    <img src="./Code Club market_files/fruit-shop.png" alt="" style="vertical-align: bottom;">
+   Club assignment 3
+</nav>
+
+    <header>
+        <img src="./Code Club market_files/fruit-shop.png" alt="" srcset="">
+        <h1><b> <strong> El magd market </strong> </b></h1>
+        <p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus <br>
+voluptatum consectetur saepe odio obcaecati aperiam accusantium,<br>
+doloremque quaerat in et similique autem nihil quidem eveniet repellat <br>
+reprehenderit adipisci. Unde, obcaecati.
+      </p>
+    </header>
+
+    <section class="section1">
+
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                 Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>
+        <span>
+            <img src="./Code Club market_files/product1.jpg" alt="">
+            <h3> product1</h3>
+            <p>Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit.
+                Nam excepturi facere quidem delectus rerum necessitatibus rem.
+                Laborum, numquam voluptate fugiat omnis
+                nesciunt sed perferendis dolore officiis esse obcaecati, illo quo?</p>
+                <input type="button" value="ADD To Cart">
+        </span>     
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <footer>
+        <p> <strong> deadline for this assignment is Thursday 11:59 pm </strong> </p>
+    </footer>
+
+
+
+
+
+</body></html>
